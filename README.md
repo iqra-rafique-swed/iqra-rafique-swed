@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Iqra Rafique  
+**Software Developer | IT Specialist | AI & Automation MSc Student**
 
-<!--
-**iqra-rafique-swed/iqra-rafique-swed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer and IT specialist based in Gothenburg, Sweden.  
+I have 7+ years of experience in IT operations, troubleshooting, software installation, and system maintenance.  
+Currently, I'm studying **AI & Automation** and building skills in:
 
-Here are some ideas to get you started:
+- Python  
+- Machine Learning  
+- Automation  
+- Flask / FastAPI  
+- SQL  
+- OpenCV  
+- TensorFlow / PyTorch  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm working on
+- Python automation tools  
+- Machine learning practice projects  
+- Web apps using Flask  
+- Cloud fundamentals (AWS & Azure)
+
+### 📫 Contact
+- **Email:** iqraa.chaudhary@gmail.com  
+- **Location:** Gothenburg, Sweden
+
+More projects coming soon.
