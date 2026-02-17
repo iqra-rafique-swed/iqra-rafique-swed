@@ -13,14 +13,20 @@ Currently, I'm studying **AI & Automation** and building skills in:
 - OpenCV  
 - TensorFlow / PyTorch  
 
+---
+
 ### 🌱 What I'm working on
 - Python automation tools  
 - Machine learning practice projects  
 - Web apps using Flask  
 - Cloud fundamentals (AWS & Azure)
 
+---
+
 ### 📫 Contact
 - **Email:** iqraa.chaudhary@gmail.com  
-- **Location:** Gothenburg, Sweden
+- **Location:** Gothenburg, Sweden  
+
+---
 
 More projects coming soon.
